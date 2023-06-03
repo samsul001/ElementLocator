@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8972" started-at="2021-07-19T17:24:43Z" finished-at="2021-07-19T17:24:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8972" started-at="2021-07-19T17:24:43Z" finished-at="2021-07-19T17:24:52Z">
+      <class name="com.elementLocators.shadowDOM">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.elementLocators.shadowDOM@49c386c8]" name="startBrowser" is-config="true" duration-ms="4059" started-at="2021-07-19T17:24:43Z" finished-at="2021-07-19T17:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="shadowDomElements1()[pri:0, instance:com.elementLocators.shadowDOM@49c386c8]" name="shadowDomElements1" duration-ms="3857" started-at="2021-07-19T17:24:47Z" finished-at="2021-07-19T17:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shadowDomElements1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.elementLocators.shadowDOM@49c386c8]" name="tearDown" is-config="true" duration-ms="1011" started-at="2021-07-19T17:24:51Z" finished-at="2021-07-19T17:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.elementLocators.shadowDOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
